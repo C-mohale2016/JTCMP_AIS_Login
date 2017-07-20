@@ -1,0 +1,7 @@
+{
+    "name": "status-component",
+    "description": "Display token timeout status",
+    "version": "1.0.0",
+    "properties":  {
+    }
+}

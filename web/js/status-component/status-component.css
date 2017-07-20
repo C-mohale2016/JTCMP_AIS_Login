@@ -1,0 +1,14 @@
+.status-component-box {
+    background-color: #F0F0F0;
+    width: auto;
+    border-radius: 25px;
+    display: inline-block;
+}
+.status-component-box span {
+/*     padding: 5px; */
+    width: 240px;
+    border: none;
+}
+ .status-component-symbol {
+/*      font-size: 1.5em; */
+}
